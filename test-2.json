@@ -1,0 +1,14 @@
+{
+  "description": "Your own AI-NFT.", 
+  "external_url": "https://pons.ai?ai-nft=1", 
+  "image": "https://assets.pons.ai/asset/022a0623-d56f-455b-b2f7-51001c68b415.jpg", 
+  "animation_url": "https://assets.pons.ai/asset/fa092d45-5f1f-472e-a72e-7db9e4139ad4.mp4",
+  "background_color": "000000",
+  "name": "Jisoo",
+  "attributes": [
+    { "trait_type": "AI artist", "value": "B-FS001" }, 
+    { "trait_type": "Human artist", "value": "John Simpson" },
+    { "trait_type": "Human artwork name", "value": "Pedro IV of Portugal, Emperor of Brazil (1798-1834)" },
+    { "trait_type": "Commissioned by", "value": "User Name Here" }
+  ]
+}
